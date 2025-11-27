@@ -9,7 +9,7 @@
 
 **Enterprise-Grade AI Assistant That Works Completely Offline**
 
-[🎥 Watch Demo](https://youtube.com/shorts/V6FH6EEg6yY) • [🚀 Live App](YOUR_CATALYST_LINK_HERE) • [📧 Contact](mailto:harishsonofsumathi@gmail.com)
+[🎥 Watch Demo](https://youtube.com/shorts/V6FH6EEg6yY) • [🚀 Live App](https://ziaedgeai-60059221351.development.catalystserverless.in) • [📧 Contact](mailto:harishsonofsumathi@gmail.com)
 
 </div>
 
@@ -383,7 +383,7 @@ Year 3: $1,100
 
 - 📧 Email: [harishsonofsumathi@gmail.com](mailto:harishsonofsumathi@gmail.com)
 - 🐙 GitHub: [@mhdevil2004](https://github.com/mhdevil2004)
-- 💼 LinkedIn: [Add your LinkedIn]
+
 - 📱 Phone: +91-8329573936
 
 ---
