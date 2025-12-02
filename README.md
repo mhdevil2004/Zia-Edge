@@ -506,7 +506,7 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ### 🚀 Ready to Break Free from Cloud Dependency?
 
-[Watch Demo](https://youtube.com/shorts/V6FH6EEg6yY) • [Try Live App](YOUR_CATALYST_LINK_HERE) • [Contact Developer](mailto:harishsonofsumathi@gmail.com)
+[Watch Demo](https://youtube.com/shorts/V6FH6EEg6yY) • [Try Live App](https://ziaedgeai-60059221351.development.catalystserverless.in) • [Contact Developer](mailto:harishsonofsumathi@gmail.com)
 
 ---
 
